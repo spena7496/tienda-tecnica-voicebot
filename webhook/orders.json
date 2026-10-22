@@ -1,0 +1,30 @@
+{
+  "TEC-004521": {
+    "producto": "Router WiFi 6 ProNet X200",
+    "estado": "En reparto",
+    "fecha_estimada": "17/10/2026",
+    "transportista": "SEUR",
+    "seguimiento": "SE123456789ES"
+  },
+  "TEC-007810": {
+    "producto": "SSD NVMe Nova 1TB",
+    "estado": "Preparando pedido",
+    "fecha_estimada": "20/10/2026",
+    "transportista": "Correos Express",
+    "seguimiento": "CE987654321ES"
+  },
+  "TEC-003298": {
+    "producto": "Monitor Vision 27 QHD",
+    "estado": "Entregado",
+    "fecha_estimada": "10/10/2026",
+    "transportista": "GLS",
+    "seguimiento": "GLS555444333ES"
+  },
+  "TEC-009142": {
+    "producto": "Teclado Mecanico K85 RGB",
+    "estado": "Incidencia en direccion",
+    "fecha_estimada": "22/10/2026",
+    "transportista": "SEUR",
+    "seguimiento": "SE111222333ES"
+  }
+}

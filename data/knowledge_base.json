@@ -1,0 +1,46 @@
+[
+  {
+    "source": "ficha_monitor_vision27.pdf",
+    "title": "Monitor Vision 27 QHD",
+    "fields": {
+      "referencia": "TEC-003298",
+      "precio": "219,00 €",
+      "garantia_meses": 36,
+      "fecha_lanzamiento": "21/11/2024"
+    },
+    "text": "Monitor Vision 27 QHD\n\nTecnoStore - Ficha tecnica de producto\n\nReferencia: TEC-003298\nPrecio: 219,00 €\nGarantia: 36 meses\n\nFecha de lanzamiento: 21/11/2024\n\nEspecificaciones\n- Panel: IPS 27 pulgadas, 2560 x 1440 (QHD)\n- Frecuencia de refresco: 165 Hz\n- Tiempo de respuesta: 1 ms (MPRT)\n- Brillo: 350 cd/m2, HDR10\n- Conectividad: 2x HDMI 2.0, 1x DisplayP ort 1.4, USB-C\n- Soporte: ajustable en altura, inclinacion y pivote\n\nCompatible con AMD FreeSync Premium. VESA 100x100."
+  },
+  {
+    "source": "ficha_router_x200.pdf",
+    "title": "Router WiFi 6 ProNet X200",
+    "fields": {
+      "referencia": "TEC-004521",
+      "precio": "89,90 €",
+      "garantia_meses": 24,
+      "fecha_lanzamiento": "12/03/2024"
+    },
+    "text": "Router WiFi 6 ProNet X200\n\nTecnoStore - Ficha tecnica de producto\n\nReferencia: TEC-004521\nPrecio: 89,90 €\nGarantia: 24 meses\n\nFecha de lanzamiento: 12/03/2024\n\nEspecificaciones\n\n- Estandar: WiFi 6 (802.11ax), doble banda 2.4/5 GHz\n- Velocidad maxima agregada: 3000 Mbps\n\n- Puertos: 4x GigabitLAN, 1x WAN, 1x USB 3.0\n\n- Antenas: 4 externas de alta ganancia\n\n- Consumo tipico: 12 W\n\n- Dimensiones: 220 x 160 x 55 mm\n\nCompatible con malla ProNet Mesh. Firmware actualizable por OTA."
+  },
+  {
+    "source": "ficha_ssd_nova1tb.pdf",
+    "title": "SSD NVMe Nova 1TB",
+    "fields": {
+      "referencia": "TEC-007810",
+      "precio": "74,50 €",
+      "garantia_meses": 60,
+      "fecha_lanzamiento": "05/09/2023"
+    },
+    "text": "SSD NVMe Nova 1TB\n\nTecnoStore - Ficha tecnica de producto\n\nReferencia: TEC-007810\nPrecio: 74,50 €\nGarantia: 60 meses\n\nFecha de lanzamiento: 05/09/2023\n\nEspecificaciones\n\n- Interfaz: PCle 4.0 x4, NVMe 1.4\n- Capacidad: 1 TB\n\n- Lectura secuencial: 7000 MB/s\n- Escritura secuencial: 5300 MB/s\n- TBW: 600 TB\n\n- Formato: M.2 2280\n\nIncluye disipador de aluminio. Garantia limitada de 5 anios o 600 TBW."
+  },
+  {
+    "source": "ficha_teclado_mecanico_k85.pdf",
+    "title": "Teclado Mecanico K85 RGB",
+    "fields": {
+      "referencia": "TEC-009142",
+      "precio": "64,99 €",
+      "garantia_meses": 24,
+      "fecha_lanzamiento": "30/01/2025"
+    },
+    "text": "Teclado Mecanico K85 RGB\n\nTecnoStore - Ficha tecnica de producto\n\nReferencia: TEC-009142\nPrecio: 64,99 €\nGarantia: 24 meses\n\nFecha de lanzamiento: 30/01/2025\n\nEspecificaciones\n\n- Switches: mecanicos rojos lineales, hot-swap\n\nFormato: TKL (87 teclas), distribucion espanola\n\nluminacion: RGB por tecla, 16.8M colores\nConexion: USB-C desmontable y Bluetooth 5.1\nBateria: 4000 mAh, hasta 120 h sin RGB\nKeycaps: PBT double-shot\n\nSoftware de macros incluido. Reposamunecas magnetico de serie."
+  }
+]

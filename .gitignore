@@ -1,0 +1,61 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+credentials/
+*service-account*.json
+*-credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Environments and dependencies
+.venv/
+venv/
+env/
+node_modules/
+
+# Generated caches, logs and local tooling state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+.runtime/
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated agent builds and submission packages
+# El export del agente revisado es un entregable de la práctica.
+dialogflow/_agent_build/
+dist/
+*.zip
+!/dialogflow/tecnostore_agent.zip
+
+# Solo se incluye la grabación de la práctica revisada
+*.mp4
+!/Video demo.mp4
+*.webm
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+
+# Keep the demo OCR knowledge base reproducible
+!data/knowledge_base.json
+
+# Material de trabajo local que no forma parte de esta entrega mínima
+/GUIA_PASO_A_PASO.html
+/tests/
+/requirements-dev.txt
+/voz/
+/dialogflow/README.md
+/docs_raw/README.md

@@ -1,0 +1,16 @@
+# Webhook y configuración
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+
+# Consulta documental
+google-genai
+
+# OCR y generación de fichas de muestra
+pytesseract
+pdf2image
+pillow
+reportlab
+
+# Dependencias del sistema para OCR: Tesseract (spa) y Poppler.
